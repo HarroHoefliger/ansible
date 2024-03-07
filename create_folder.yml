@@ -4,4 +4,4 @@
 
   tasks:
     - name: Create ansible directory
-      command: mkdir /home/ubuntu/ansible
+      command: mkdir /tmp/ansible
